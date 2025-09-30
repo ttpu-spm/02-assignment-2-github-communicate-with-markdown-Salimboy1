@@ -21,6 +21,6 @@ This assignment introduces you to using Markdown for communication on GitHub thr
 
 ## Course Repository URLs
 
-_Here you should put the URL of your final repository after finishing the given tutorial_
+Completed Task https://github.com/Salimboy1/skills-communicate-using-markdown/pull/2
 
 <!-- This section will be automatically updated by CI when students complete the course -->
